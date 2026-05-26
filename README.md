@@ -94,7 +94,7 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
-<img width="999" height="1599" alt="image" src="https://github.com/user-attachments/assets/7c9a4e3a-8de1-4644-bbc6-c6b209f3ebc8" />
+<img width="1320" height="1408" alt="image" src="https://github.com/user-attachments/assets/0a9388b5-98ba-4e6d-9a0d-3979ac65e926" />
 
 ---
 
